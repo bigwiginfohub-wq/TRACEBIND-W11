@@ -1,0 +1,42 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# Build, packaging, and distribution
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Data outputs (ignore raw data sweeps to keep the git tree lightweight)
+data/**/*.csv
+data/**/*.xlsx
+
+# Keep publication-quality figures
+!data/**/figures/*.png
+
+# Execution logs and checkpoints
+*.log
+.ipynb_checkpoints/

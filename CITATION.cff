@@ -1,0 +1,16 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software or methodology in your research, please cite it as below."
+authors:
+  - family-names: "Muhammed Syed Ibrahim"
+    given-names: "Mohammed Ali"
+    affiliation: "Independent Researcher, Chennai, India"
+title: "TRACEBIND-W11: Localized Monte Carlo Validation Engine for Spatial Coherence Analysis"
+version: "1.1.0"
+date-released: 2026-06-30
+url: "https://github.com/mohammed-ali-6a08a1220/GaiaProject"
+keywords:
+  - spatial-coherence
+  - numerical-validation
+  - monte-carlo-simulation
+  - computational-physics
