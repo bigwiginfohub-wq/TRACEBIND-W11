@@ -22,21 +22,13 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Build, packaging, and distribution
+# Build and packaging
 build/
 dist/
 *.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
 
-# Data outputs (ignore raw data sweeps to keep the git tree lightweight)
-data/**/*.csv
-data/**/*.xlsx
-
-# Keep publication-quality figures
-!data/**/figures/*.png
-
-# Execution logs and checkpoints
+# Track your figures and summary files, but ignore temporary logs
+!data/*.csv
+!figures/*.png
 *.log
 .ipynb_checkpoints/
