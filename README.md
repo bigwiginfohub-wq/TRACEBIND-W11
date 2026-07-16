@@ -18,17 +18,18 @@ TRACEBIND-W11/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
+├── data/
+│   ├── TRACEBIND_MC_SUMMARY.csv
+│   └── TRACEBIND_MC_SWEEP.csv
 ├── docs/
-│   ├── manuscript.md
-│   ├── methodology.md
-│   └── validation_protocol.md
-├── scripts/
-│   ├── TRACEBIND-W11-C1.py
-│   ├── generate_figure_01.py
-│   └── generate_figure_02.py
-└── data/
-    └── Candidate1/
-        └── figures/
+│   └── manuscript.md
+├── figures/
+│   ├── Figure_01_Distribution.png
+│   └── Figure_02_Parameter_Sensitivity.png
+└── scripts/
+    ├── TRACEBIND-W11-C1.py
+    ├── generate_figure_01.py
+    └── generate_figure_02.py
 
 ```
 
