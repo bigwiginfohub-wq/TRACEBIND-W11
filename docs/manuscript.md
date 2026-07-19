@@ -1,6 +1,4 @@
-
-
-\# Evaluating Spatial Wave Coherence via Localized Null-Model Permutations: An Algorithmic Assessment of the TRACEBIND-W11 Pipeline
+# Evaluating Spatial Wave Coherence via Localized Null-Model Permutations: An Algorithmic Assessment of the TRACEBIND-W11 Pipeline
 
 
 
